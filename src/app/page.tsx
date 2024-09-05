@@ -9,9 +9,7 @@ const page = () => {
        <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
          <blockquote>
            <p className="text-lg font-medium">
-             Tailwind CSS is the only framework that Ive seen scale
-             on large teams. Its easy to customize, adapts to any design,
-             and the build size is tiny.
+             my home most peacful place alhundulilah
            </p>
          </blockquote>
          <figcaption className="font-medium">
